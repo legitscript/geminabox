@@ -1,8 +1,8 @@
 pkg
 .DS_Store
 tmp/restart.txt
-Gemfile.lock
 .bundle
+.capistrano/
 vendor/bundle
 .rbenv-version
 test/fixtures/fake_home_path/.gem/specs
